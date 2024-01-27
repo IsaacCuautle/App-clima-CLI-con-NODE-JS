@@ -20,8 +20,12 @@ Esta sencilla aplicación proporciona a los usuarios la capacidad de acceder a i
 <img src="https://github.com/IsaacCuautle/App-clima-CLI-con-NODE-JS/assets/65583500/7867874e-9ddf-4aab-9138-60aa6a722d7f" width="500">
 <img src="https://github.com/IsaacCuautle/App-clima-CLI-con-NODE-JS/assets/65583500/6cb594e1-2e75-49ab-bb80-669b7793c74f" width="500">
 
-
-
-
-
 <h2 id="Tenologias_utilizadas">Tenologias utilizadas</h2>
+
+- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+- ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+- ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+- ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+- ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+- [OpenWeather](https://account.mapbox.com/)
+- [MapBox](https://openweathermap.org/)
