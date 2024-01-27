@@ -8,7 +8,7 @@ Esta sencilla aplicación proporciona a los usuarios la capacidad de acceder a i
 
 <h2 id="Instalacion">Instalacion</h2>
 
-1. Descargue el archivo del proyecto [aqui]()
+1. Descargue el archivo del proyecto [aqui](https://github.com/IsaacCuautle/App-clima-CLI-con-NODE-JS/releases/download/v1.0.0/App-clima-CLI-con-NODE-JS.zip)
 2. Descomprima el proyecto
 3. Inicie una terminal dentro de la carpeta del proyecto y ejecute el comando `npm i` para instalar las dependencias nesearias
 4. Configure las variables de entorno con el srchivo **.env copy**
